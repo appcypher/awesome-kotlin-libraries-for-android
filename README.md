@@ -6,18 +6,18 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Contents
 
-- [UI](#ui )
-- [ToolBox](#toolbox )
-- [Utility](#utility)
-- [Dependency Injection](#dependency-injection )
-- [Concurrency](#concurrency )
-- [Games](#games )
-- [Frameworks](#frameworks )
-- [Projects](#projects )
+- <a name="ui-category"></a>[UI](#ui)
+- <a name="toolbox-category"></a>[ToolBox](#toolbox)
+- <a name="utility-category"></a>[Utility](#utility)
+- <a name="dependency-injection-category"></a>[Dependency Injection](#dependency-injection)
+- <a name="concurrency-category"></a>[Concurrency](#concurrency)
+- <a name="games-category"></a>[Games](#games)
+- <a name="frameworks-category"></a>[Frameworks](#frameworks)
+- <a name="projects-category"></a>[Projects](#projects)
 
 
 
-## <a name="android-frameworks"></a>UI <sup>[Back ⇈](#contents)</sup>
+## <a name="ui"></a>UI <sup>[Back ⇈](#contents)</sup>
 * [KotterKnife](https://github.com/JakeWharton/kotterknife) - View injection library for Android.
 * [KBinding](https://github.com/BennyWang/KBinding) - Android View Model binding framework write in kotlin, base on anko, simple but powerful.
 * [Anvil Kotlin](https://github.com/andre-artus/AnvilKotlin) - Minimal UI library for Android inspired by React.
@@ -27,12 +27,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 
 
-## <a name="android-frameworks"></a>Toolbox <sup>[Back ⇈](#contents)</sup>
+## <a name="toolbox"></a>Toolbox <sup>[Back ⇈](#contents)</sup>
 * [Anko](https://github.com/Kotlin/anko) - Pleasant Android application development.
 
 
 
-## <a name="android-frameworks"></a>Utility <sup>[Back ⇈](#contents)</sup>
+## <a name="utility"></a>Utility <sup>[Back ⇈](#contents)</sup>
 * [KotlinPreferences](https://github.com/MarcinMoskala/KotlinPreferences) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun.
 * [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun using object with fields binded to SharedPreferences.
 * [Kotlin Jetpack](https://github.com/nsk-mironov/kotlin-jetpack) - A collection of useful extension methods for Android.
@@ -51,30 +51,30 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 
 
-## <a name="android-frameworks"></a>Dependency Injection <sup>[Back ⇈](#contents)</sup>
+## <a name="dependency-injection"></a>Dependency Injection <sup>[Back ⇈](#contents)</sup>
 * [KotterKnife](https://github.com/JakeWharton/kotterknife) - View injection library for Android.
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Activity starter generator and arguments injection library for Android.
 
 
 
-## <a name="android-frameworks"></a>Concurency <sup>[Back ⇈](#contents)</sup>
+## <a name="concurrency"></a>Concurency <sup>[Back ⇈](#contents)</sup>
 * [KillerTask](https://github.com/inaka/KillerTask) -  Android AsyncTask wrapper library, written in Kotlin.
 * [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
 
 
 
-## <a name="android-frameworks"></a>Games <sup>[Back ⇈](#contents)</sup>
+## <a name="games"></a>Games <sup>[Back ⇈](#contents)</sup>
 * [Glimpse Framework Android](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 
 
 
-### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#contents)</sup>
+### <a name="franeworks"></a>Frameworks <sup>[Back ⇈](#contents)</sup>
 * [Kotgo](https://github.com/nekocode/kotgo) - An android development framwork on kotlin using MVP architecture.
 * [Kotlin Core](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson.
 
 
 
-## <a name="android-projects"></a>Projects <sup>[Back ⇈](#contents)</sup>
+## <a name="projects"></a>Projects <sup>[Back ⇈](#contents)</sup>
 * [Bandhook Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language.
 * [Kotlin for Android Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers".
 * [Kotlin Dagger Example](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
@@ -97,4 +97,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-***Awesome Kotlin Libraries for Android source code* is licensed under the [MIT License](https://github.com/AppCypher/Awesome-Kotlin-Libraries-for-Android/LICENSE.md).**
+***Awesome Kotlin Libraries for Android source code* is licensed under the [MIT License](https://github.com/AppCypher/Awesome-Kotlin-Libraries-for-Android/LICENSE).**
