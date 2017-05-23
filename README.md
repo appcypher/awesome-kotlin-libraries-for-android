@@ -6,14 +6,16 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Contents
 
-- [UI](#ui)
-- [ToolBox](#toolbox)
+- [UI](#ui )
+- [ToolBox](#toolbox )
 - [Utility](#utility)
-- [Dependency Injection](#dependency-injection)
-- [Concurrency](#concurrency)
-- [Games](#games)
-- [Frameworks](#frameworks)
-- [Projects](#projects)
+- [Dependency Injection](#dependency-injection )
+- [Concurrency](#concurrency )
+- [Games](#games )
+- [Frameworks](#frameworks )
+- [Projects](#projects )
+
+
 
 ## <a name="android-frameworks"></a>UI <sup>[Back ⇈](#contents)</sup>
 * [KotterKnife](https://github.com/JakeWharton/kotterknife) - View injection library for Android.
@@ -23,8 +25,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [Anvil](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React.
 * [MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt) - A DSL for creating Material Design navigation drawers without any XML.
 
+
+
 ## <a name="android-frameworks"></a>Toolbox <sup>[Back ⇈](#contents)</sup>
 * [Anko](https://github.com/Kotlin/anko) - Pleasant Android application development.
+
+
 
 ## <a name="android-frameworks"></a>Utility <sup>[Back ⇈](#contents)</sup>
 * [KotlinPreferences](https://github.com/MarcinMoskala/KotlinPreferences) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun.
@@ -43,20 +49,30 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [Static Log](https://github.com/jupf/staticlog) - StaticLog - super lightweight static logging for Kotlin, Java and Android.
 * [Stepper Touch](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin.
 
+
+
 ## <a name="android-frameworks"></a>Dependency Injection <sup>[Back ⇈](#contents)</sup>
 * [KotterKnife](https://github.com/JakeWharton/kotterknife) - View injection library for Android.
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Activity starter generator and arguments injection library for Android.
+
+
 
 ## <a name="android-frameworks"></a>Concurency <sup>[Back ⇈](#contents)</sup>
 * [KillerTask](https://github.com/inaka/KillerTask) -  Android AsyncTask wrapper library, written in Kotlin.
 * [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
 
+
+
 ## <a name="android-frameworks"></a>Games <sup>[Back ⇈](#contents)</sup>
 * [Glimpse Framework Android](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+
+
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#contents)</sup>
 * [Kotgo](https://github.com/nekocode/kotgo) - An android development framwork on kotlin using MVP architecture.
 * [Kotlin Core](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson.
+
+
 
 ## <a name="android-projects"></a>Projects <sup>[Back ⇈](#contents)</sup>
 * [(https://github.com/AppCypher/Awesome-Kotlin-Libraries-for-Android)
@@ -82,4 +98,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-***Awesome Kotlin Libraries for Android source code* is licensed under the [MIT License](https://github.com/mbasso/awesome-wasm/blob/master/LICENSE.md).**
+     ***Awesome Kotlin Libraries for Android source code* is licensed under the [MIT License](https://github.com/mbasso/awesome-wasm/blob/master/LICENSE.md).**
