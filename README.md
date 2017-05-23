@@ -75,7 +75,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 
 ## <a name="android-projects"></a>Projects <sup>[Back ⇈](#contents)</sup>
-* [(https://github.com/AppCypher/Awesome-Kotlin-Libraries-for-Android)
 * [Bandhook Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language.
 * [Kotlin for Android Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers".
 * [Kotlin Dagger Example](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
