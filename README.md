@@ -97,4 +97,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-***Awesome Kotlin Libraries for Android source code* is licensed under the [MIT License](https://github.com/AppCypher/Awesome-Kotlin-Libraries-for-Android/LICENSE).**
+***Awesome Kotlin Libraries for Android* source code is licensed under the [MIT License](https://github.com/AppCypher/Awesome-Kotlin-Libraries-for-Android/LICENSE).**
