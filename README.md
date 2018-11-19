@@ -39,6 +39,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [pawegio/KAndroid](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code.
 * [Kotpref](https://github.com/chibatching/Kotpref) - Android SharedPreference delegation for Kotlin.
 * [Bubble](https://github.com/TouK/bubble) - Library for obtaining screen orientation when orientation is blocked in AndroidManifest.
+* [Stateful](https://github.com/PicsArt/stateful) - Stateful helps you delete all the boilerplate code for saving instance state and lets you forget about saving and restoring your fragment's/activity's state.
 * [Kaffeine](https://github.com/ragunathjawahar/kaffeine) - Kaffeine is a Kotlin-flavored Android library for accelerating development.
 * [Kotlin Koi](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development.
 * [PaperParcel](https://github.com/grandstaish/paperparcel) - Boilerplate reduction library written specifically for working with Kotlin data classes on Android.
