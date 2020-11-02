@@ -74,6 +74,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 
 
+### <a name="network"></a>Network <sup>[Back ⇈](#contents)</sup>
+* [Sonarnet](https://github.com/fabricethilaw/sonarnet) - Kotlin library providing better awareness of true Internet access and captive portals for Android.
+
+
+
 ## <a name="projects"></a>Projects <sup>[Back ⇈](#contents)</sup>
 * [Bandhook Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language.
 * [Kotlin for Android Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers".
